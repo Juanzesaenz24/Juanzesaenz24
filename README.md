@@ -11,7 +11,7 @@
 ## My Academic Journey:
 - 📚 Graduated with a high school diploma from the technical educational institution Pedro Pabón Parga.
 - 📚 Technical degree in Commercial Advisory.
-- 📚 Currently in the fourth semester of Systems Engineering.
+- 📚 Currently in the eighth semester of Systems Engineering.
 
 ## My Passions:
 - 🎨 Graphic Design: Creating images that speak for themselves. Design is my form of expression.
